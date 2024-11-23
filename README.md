@@ -29,14 +29,14 @@ Other Tools: Git, GitHub, Figma (for UI/UX design)
 
 ## UI/UX Design Planning
 
-## Design Goals
+### Design Goals
 
 Create a visually appealing and responsive layout.
 
 Ensure intuitive navigation for users to browse, view, and book properties.
 
 
-## Key Features
+### Key Features
 
 1. Property Listing View: Browse properties with filters for location, price, and amenities.
 
@@ -48,23 +48,76 @@ Ensure intuitive navigation for users to browse, view, and book properties.
 
 
 
-# Page Descriptions
+## Page Descriptions
 
 Importance of User-Friendly Design
 
-A user-friendly design ensures:
+Easy navigation improves user satisfaction.
 
-Easy navigation and interaction, improving user satisfaction.
+Higher trust and engagement lead to more bookings.
 
-Higher trust and engagement, leading to more bookings.
-
-Accessibility across devices for a seamless experience.
+Accessible design ensures a seamless experience across devices.
 
 
 
 ---
 
-# Getting Started
+## Project Roles and Responsibilities
+
+
+---
+
+## UI Component Patterns
+
+### Planned Components
+
+1. Navbar:
+
+Features logo, navigation links, and user account options.
+
+Stays fixed for easy access to navigation throughout the app.
+
+
+
+2. Property Card:
+
+Displays property images, titles, ratings, and prices.
+
+Includes hover effects and "Add to Favorites" functionality.
+
+
+
+3. Footer:
+
+Contains links to policies, FAQs, and social media handles.
+
+Includes copyright and app version details.
+
+
+
+4. Filters Sidebar:
+
+Enables users to filter properties by price, location, and amenities.
+
+
+
+5. Modal:
+
+Used for login, signup, and confirmation dialogs.
+
+
+
+6. Button Components:
+
+Reusable button styles for actions like booking, filtering, and navigation.
+
+
+
+
+
+---
+
+## Getting Started
 
 1. Clone the repository:
 
@@ -85,6 +138,6 @@ Accessibility across devices for a seamless experience.
 
 ---
 
-# License
+License
 
 This project is licensed under the MIT License.
