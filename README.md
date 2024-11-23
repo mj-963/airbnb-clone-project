@@ -1,10 +1,10 @@
-#StayEase: Airbnb Clone
+# StayEase: Airbnb Clone
 
-##Project Overview
+## Project Overview
 
 StayEase is a simplified Airbnb clone designed to provide a user-friendly platform for property listings, detailed views, and a seamless booking experience.
 
-##Goals
+## Goals
 
 Build a responsive and intuitive booking system.
 
@@ -13,7 +13,7 @@ Focus on clean UI/UX design for an enhanced user experience.
 Ensure efficient functionality for key features like property listings, details, and checkout.
 
 
-##Tech Stack
+## Tech Stack
 
 Frontend: React, Redux, Tailwind CSS
 
@@ -27,16 +27,16 @@ Other Tools: Git, GitHub, Figma (for UI/UX design)
 
 ---
 
-#UI/UX Design Planning
+# UI/UX Design Planning
 
-##Design Goals
+## Design Goals
 
 Create a visually appealing and responsive layout.
 
 Ensure intuitive navigation for users to browse, view, and book properties.
 
 
-##Key Features
+## Key Features
 
 1. Property Listing View: Browse properties with filters for location, price, and amenities.
 
@@ -48,7 +48,7 @@ Ensure intuitive navigation for users to browse, view, and book properties.
 
 
 
-#Page Descriptions
+# Page Descriptions
 
 Importance of User-Friendly Design
 
@@ -64,7 +64,7 @@ Accessibility across devices for a seamless experience.
 
 ---
 
-#Getting Started
+# Getting Started
 
 1. Clone the repository:
 
@@ -85,6 +85,6 @@ Accessibility across devices for a seamless experience.
 
 ---
 
-#License
+# License
 
 This project is licensed under the MIT License.
